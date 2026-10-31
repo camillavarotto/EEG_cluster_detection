@@ -1,4 +1,5 @@
 # EEG_cluster_detection
+Authors: Alexander Wolf, Camilla Varotto, Elena Schröter     
 
 This repository investigates whether participants can be meaningfully grouped based on EEG-derived features. Analyses are performed on the **Dortmund dataset** (model development) and **LEMON dataset** (external validation). The focus is on assessing the quality, stability, and interpretability of feature clusters.
 
