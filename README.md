@@ -1,7 +1,7 @@
 # EEG_cluster_detection
 
 > Developed at EPFL as part of the Machine Learning course (CS-433) in collaboration with the Psychophysics and Neural Dynamics lab of University of Lausanne (UNIL) and Lausanne University Hospital (CHUV).  
-> Team: Camilla Varotto · Hema Gouled · N'zian Koffi · Remy Mühlethaler  
+> Team: Camilla Varotto · Alexander Wolf · Elena Schröter
 
 This repository investigates whether participants can be meaningfully grouped based on EEG-derived features. Analyses are performed on the **Dortmund dataset** (model development) and **LEMON dataset** (external validation). The focus is on assessing the quality, stability, and interpretability of feature clusters.
 
